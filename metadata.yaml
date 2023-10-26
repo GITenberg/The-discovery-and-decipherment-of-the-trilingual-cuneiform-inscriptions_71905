@@ -1,0 +1,26 @@
+_repo: The-discovery-and-decipherment-of-the-trilingual-cuneiform-inscriptions_71905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Booth, Arthur John
+    gutenberg_agent_id: '56454'
+    url: http://www.gutenberg.org/2009/agents/56454
+description: ''
+gutenberg_issued: '2023-10-18'
+identifiers:
+  gutenberg: '71905'
+language: en
+pgterms:marc904: https://archive.org/details/discoverydeciphe00boot
+pgterms:marc905: 20210204114707booth
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bLongmans, Green, and Co., $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The discovery and decipherment of the trilingual cuneiform inscriptions
+url: http://www.gutenberg.org/ebooks/71905
