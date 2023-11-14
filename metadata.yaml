@@ -1,11 +1,16 @@
 _repo: The-discovery-and-decipherment-of-the-trilingual-cuneiform-inscriptions_71905
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71905-h/images/cover.jpg
 creator:
   author:
     agent_name: Booth, Arthur John
     gutenberg_agent_id: '56454'
     url: http://www.gutenberg.org/2009/agents/56454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71905#The-discovery-and-decipherment-of-the-trilingual-cuneiform-inscriptions
 gutenberg_issued: '2023-10-18'
 identifiers:
   gutenberg: '71905'
